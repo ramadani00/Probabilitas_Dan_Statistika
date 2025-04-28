@@ -48,7 +48,7 @@ Dataset yang digunakan berisi informasi sosial-ekonomi rumah tangga dengan varia
 ## Cara Menggunakan
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/ramadani00/Lab7Web.git
+   git clone https://github.com/ramadani00/Probabilitas_Dan_Statistika.git
    ```
 2. Pastikan Anda memiliki Python dan library yang diperlukan terinstal. Anda dapat menginstalnya dengan:
    ```bash
