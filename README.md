@@ -1,6 +1,3 @@
-<a href="https://github.com/ramadani00/Regresi_Linear">Klik disini</td>
-
-
 ## Deskripsi
 Repository ini berisi analisis data sosial-ekonomi rumah tangga untuk menentukan kelayakan penerima **BPNT (Bantuan Pangan Non-Tunai)** menggunakan metode **Regresi Logistik**. Proyek ini mencakup proses pengolahan data, visualisasi, hingga evaluasi model prediksi.
 
